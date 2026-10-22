@@ -1,0 +1,1 @@
+The attached MATLAB files calculate the E- and H-type shielding effectiveness of a thin conductive spherical shell. In addition, we provide a short script for calculating the radiated H-field produced by an impulsive vertical electric dipole located inside the shell.
